@@ -1,11 +1,11 @@
 # SecondarySpectra
 Secondary spectra for the SM and BSM benchmarks
 
-These secondary spectra are used in [2210.XXXX](https://arxiv.org/abs/2210.XXXX), which you should read for further details
+These secondary spectra are used in [2210.02805](https://arxiv.org/abs/2210.02805), which you should read for further details
 
 All spectra were generated using [Pythia8](https://pythia.org/)
 
-If these spectra are used in a published work, please cite [2210.XXXX](https://arxiv.org/abs/2210.XXXX)
+If these spectra are used in a published work, please cite [2210.02805](https://arxiv.org/abs/2210.02805)
 
 ---
 
@@ -28,7 +28,7 @@ The bins are evenly spaced in log space, with the secondary particle energy valu
 
 ---
 
-**sp-mssm** gives the same information for the MSSM benchmark defined in [2210.XXXX](https://arxiv.org/abs/2210.XXXX)
+**sp-mssm** gives the same information for the MSSM benchmark defined in [2210.02805](https://arxiv.org/abs/2210.02805)
 
 It also contains the secondary spectra for the 125 GeV Higgs boson (pid 25), since its properties are slightly different to the SM Higgs boson
 
@@ -42,7 +42,7 @@ These files have an extra column:
 
 ---
 
-**d2NdEfdtDataSM.m** is a Mathematica file containing the total secondary photon spectra following equation (5) in [2210.XXXX](https://arxiv.org/abs/2210.XXXX)
+**d2NdEfdtDataSM.m** is a Mathematica file containing the total secondary photon spectra following equation (5) in [2210.02805](https://arxiv.org/abs/2210.02805)
 
 Each triplet of values gives {Log10(MBH [g]), Log10(Ef [GeV]), Log10(d2NdEfdt [GeV^-1 s^-1])), where Ef is the energy of the secondary photon
 
