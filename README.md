@@ -1,5 +1,5 @@
 # SecondarySpectra
-Secondary spectra for the SM and BSM benchmarks
+Secondary spectra from evaporating black holes for the SM and BSM benchmarks
 
 These secondary spectra are used in [2210.02805](https://arxiv.org/abs/2210.02805), which you should read for further details
 
