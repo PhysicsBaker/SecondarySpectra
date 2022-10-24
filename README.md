@@ -22,7 +22,7 @@ The columns give the:
 (7) # tau neutrinos\
 (8) # protons
 
-per parent particle per energy bin, with energies in GeV
+per parent particle per energy bin, with energies in GeV.  For electrons to protons, the bins count particles + anti-particles
 
 The bins are evenly spaced in log space, with the secondary particle energy values giving the centre of the bin 
 
